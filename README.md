@@ -1,7 +1,8 @@
-selamat datang 
+daftar-biodata-siswa
 ==
-halos emuanya 
+Daftar biodata siswa Dicoding Academy
 --
-1. halo
-2. makan
-3. apa 
+*Berikut adalah biodata siswa terdiri yang dari 3 angkatan.*
+- Angkatan 2019
+- Angkatan 2020
+- Angkatan 2021
